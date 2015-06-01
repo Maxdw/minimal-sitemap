@@ -12,6 +12,7 @@
  * License: MIT license (http://www.opensource.org/licenses/mit-license.php)
  */
 
+include 'html.php';
 include 'xml.php';
 
 class MinimalSitemap {
